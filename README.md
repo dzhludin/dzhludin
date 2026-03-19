@@ -84,7 +84,7 @@
 
 #### 3. 💾 Базы данных (SQL & NoSQL)
 * **[🔗 Открыть примеры запросов](https://docs.google.com/spreadsheets/d/1K25zt7sjt1mL7_lG5uvP47D_P7hWiWNq5L4UgVZTk0k/edit?gid=0#gid=0)**
-    * MySQL (JOIN, UNION) и MongoDB.
+    * MySQL (SELECT, JOIN) и MongoDB.
 
 #### 4. 📱 Мобильное тестирование
 * **[🔗 Открыть Mobile-документацию](https://docs.google.com/spreadsheets/d/1TgeNCluAPJNN7iFSXaZJKiaMM1fG50hxb5E-a9wze0c/edit?gid=0#gid=0)**
